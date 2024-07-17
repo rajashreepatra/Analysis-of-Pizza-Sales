@@ -19,7 +19,8 @@ Basic Insights:
 4.	Most Common Pizza Size: Determined the most frequently ordered pizza size, aiding in inventory and supply chain management.
 	<img src = "https://github.com/the-silent-geek/Analysis-of-Pizza-Sales/blob/4fd518e921ccda281f8ffc3e941298658111b745/images/q4.png" width ="480">
 5.	Top 5 Most Ordered Pizzas: Listed the top 5 most ordered pizza types along with their quantities, helping to understand customer preferences.
-	<img src = "https://github.com/the-silent-geek/Analysis-of-Pizza-Sales/blob/4fd518e921ccda281f8ffc3e941298658111b745/images/q5.png" width ="480">
+   	<br>
+   	 <img src = "https://github.com/the-silent-geek/Analysis-of-Pizza-Sales/blob/4fd518e921ccda281f8ffc3e941298658111b745/images/q5.png" width ="480">
    
 Intermediate Insights:
 1.	Total Quantity by Pizza Category: Joined necessary tables to find the total quantity of each pizza category ordered, providing insights into category performance.

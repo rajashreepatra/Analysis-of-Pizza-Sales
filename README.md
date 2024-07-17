@@ -24,15 +24,16 @@ Basic Insights:
    
 Intermediate Insights:
 1.	Total Quantity by Pizza Category: Joined necessary tables to find the total quantity of each pizza category ordered, providing insights into category performance.
+	<br>
 	<img src = "https://github.com/the-silent-geek/Analysis-of-Pizza-Sales/blob/4fd518e921ccda281f8ffc3e941298658111b745/images/q6.png" width ="480">
 2.	Order Distribution by Hour: Analyzed the distribution of orders by hour of the day, useful for staffing and operational efficiency.
-	<img src = "https://github.com/the-silent-geek/Analysis-of-Pizza-Sales/blob/4fd518e921ccda281f8ffc3e941298658111b745/images/q7.png" width ="480">
+	<br> <img src = "https://github.com/the-silent-geek/Analysis-of-Pizza-Sales/blob/4fd518e921ccda281f8ffc3e941298658111b745/images/q7.png" width ="480">
 3.	Category-Wise Pizza Distribution: Joined relevant tables to find the category-wise distribution of pizzas, helping to optimize menu offerings.
-	<img src = "https://github.com/the-silent-geek/Analysis-of-Pizza-Sales/blob/4fd518e921ccda281f8ffc3e941298658111b745/images/q8.png" width ="480">
+	<br> <img src = "https://github.com/the-silent-geek/Analysis-of-Pizza-Sales/blob/4fd518e921ccda281f8ffc3e941298658111b745/images/q8.png" width ="480">
 4.	Average Pizzas Ordered Per Day: Grouped orders by date and calculated the average number of pizzas ordered per day, useful for trend analysis and forecasting.
-	<img src = "https://github.com/the-silent-geek/Analysis-of-Pizza-Sales/blob/4fd518e921ccda281f8ffc3e941298658111b745/images/q9.png" width ="480">
+	<br> <img src = "https://github.com/the-silent-geek/Analysis-of-Pizza-Sales/blob/4fd518e921ccda281f8ffc3e941298658111b745/images/q9.png" width ="480">
 5.	Top 3 Pizzas by Revenue: Determined the top 3 most ordered pizza types based on revenue, aiding in revenue maximization strategies.
-	<img src = "https://github.com/the-silent-geek/Analysis-of-Pizza-Sales/blob/4fd518e921ccda281f8ffc3e941298658111b745/images/q10.png" width ="480">
+	<br> <img src = "https://github.com/the-silent-geek/Analysis-of-Pizza-Sales/blob/4fd518e921ccda281f8ffc3e941298658111b745/images/q10.png" width ="480">
    
 Advanced Insights:
 1.	Percentage Contribution to Revenue: Calculated the percentage contribution of each pizza type to the total revenue, highlighting the most profitable items.
